@@ -1,12 +1,12 @@
 
 body {
-	background-image: url("/Background.jpg");
+	background-image: url("./Background.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
   }
   .col-12, .col-md-3, .col-xl-3, .colOne {
-    background-image: url("/Background2.jpg");
+    background-image: url("./Background2.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
